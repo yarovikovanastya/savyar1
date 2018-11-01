@@ -13,8 +13,6 @@ namespace PrimeApp
             var prim = srv.PrimeName("savyar-test");
 
             Console.WriteLine($"PrimeName: {prim}");
-
-            Console.ReadLine();
         }
     }
 }
